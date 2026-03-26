@@ -52,3 +52,7 @@ This will create a file named `gridfinity_2x2x3.stl`.
 ```
 
 This will create a file named `gridfinity_3x3x2.stl`.
+
+## License
+
+This project is licensed under [CC BY-NC 4.0](https://darren-static.waft.dev) - free to use and modify, but no commercial use without permission.
